@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +dx ugo
+chmod -R 644 d755
