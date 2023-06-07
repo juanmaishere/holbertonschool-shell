@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R drwxr-xr-x ugo
+chmod -R +dx ugo
