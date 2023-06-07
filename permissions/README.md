@@ -1,0 +1,1 @@
+Permisions For Shell Usage
