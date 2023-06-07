@@ -1,2 +1,2 @@
 #!/bin/bash
-. d chmod 755 
+chmod . -d 111 
