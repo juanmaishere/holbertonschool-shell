@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f *.gif | cut -d'/' -f'2'
+find . *.gif | cut -d'/' -f'2'
