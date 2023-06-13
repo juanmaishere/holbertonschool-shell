@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -c | sort -nr | cut -d"-" -f1
+sort -nr | uniq -c | cut -d"-" -f1
